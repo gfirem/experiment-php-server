@@ -3,7 +3,7 @@
         'name' => 'amplitude/experiment-php-server',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'd05a06e80ab46e7f3d771248c5c8d1e84d518ffc',
+        'reference' => '1c19f2e8029f5b5b2f40ef33e63a66d3e4410eec',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'amplitude/experiment-php-server' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'd05a06e80ab46e7f3d771248c5c8d1e84d518ffc',
+            'reference' => '1c19f2e8029f5b5b2f40ef33e63a66d3e4410eec',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
